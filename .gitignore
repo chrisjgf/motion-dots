@@ -1,0 +1,5 @@
+MotionDots.app/
+*.app/
+.build/
+build/
+.DS_Store
